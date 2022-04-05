@@ -1,0 +1,14 @@
+{
+  "up": {
+      "color": "black",
+      "text": "this is the title"
+    }, 
+  "main": {
+      "color": "white",
+      "text": "text text"
+    },
+  "end": {
+      "color": "blue",
+      "text": "ending qwerty"
+    }
+}
